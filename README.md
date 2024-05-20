@@ -2,8 +2,10 @@
 
 ## Baixar chromedrive `125.0.6422.60`
 > Para utilizar o Chromedriver, é necessário que você baixe os binários executáveis nos links oficiais e, então, extraia os arquivos .zip
-<br> 
-![alt text](src_readme/chromedriver.png)
+<br>
+ 
+![chromedriver](https://github.com/FlorSousa/selecao-beanalytic-data-engineer/assets/58887452/4845f161-d0a4-4de7-a8f4-43615c8277d4)
+
 
 ### linux x64:
 
@@ -26,7 +28,9 @@ Observação: Ao criar o arquivo de credenciais no google cloud, adicione ao per
 
 <br>
 <br>
-![alt text](src_readme/screenshot.png)
+
+![screenshot](https://github.com/FlorSousa/selecao-beanalytic-data-engineer/assets/58887452/53b6e84f-710a-49ab-829d-1fba5c5210aa)
+
 
 ### Criando um arquivo .env
 > No diretório deste repositório existe um arquivo chamado `.env.example` como layout das variáveis de ambiente. Execute o comando abaixo para criar um arquivo `.env` e coloque o caminho para o arquivo de credenciais.
