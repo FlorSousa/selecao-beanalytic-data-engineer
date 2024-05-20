@@ -1,3 +1,4 @@
 backup_games_data.csv
 chromedriver.exe
 gcp.json
+.env
