@@ -15,10 +15,10 @@ curl -o /tmp/chromedrive https://storage.googleapis.com/chrome-for-testing-publi
 ```
 ou 
 
-[Clique aqui para baixar para linux]("https://storage.googleapis.com/chrome-for-testing-public/125.0.6422.60/linux64/chromedriver-linux64.zip")
+<a href="https://storage.googleapis.com/chrome-for-testing-public/125.0.6422.60/linux64/chromedriver-linux64.zip">Clique aqui para baixar para linux</a>
 
 ### windows
-### [Clique aqui para baixar para windows]("https://storage.googleapis.com/chrome-for-testing-public/125.0.6422.60/win64/chromedriver-win64.zip")
+### <a href="https://storage.googleapis.com/chrome-for-testing-public/125.0.6422.60/win64/chromedriver-win64.zip">Clique aqui para baixar para windows</a>
 
 ## Arquivo de credenciais do google cloud
 
@@ -63,4 +63,4 @@ python main.py
 
 ## Sobre o código
 
-O script deste repositório usa o selenium junto com o Chromedriver para realizar web scraping da página https://steamdb.info/sales e armazena os dados da tabela HTML no serviço do Google Cloud BigQuery. Os dados da tabela do BigQuery estão também disponíveis em uma planilha do Google Sheets, que pode ser acessada  [clicando aqui]("")
+O script deste repositório usa o selenium junto com o Chromedriver para realizar web scraping da página https://steamdb.info/sales e armazena os dados da tabela HTML no serviço do Google Cloud BigQuery. Os dados da tabela do BigQuery estão também disponíveis em uma planilha do Google Sheets, que pode ser acessada  <a href="https://docs.google.com/spreadsheets/d/1pzCZu0rU9fD0_z3w6t4X73AotxU9uFKf5w9uapseqYk/edit?usp=sharing">Clicando aqui</a>
